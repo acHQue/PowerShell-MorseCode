@@ -9,7 +9,7 @@ $msg_length = $msg.Length #26
 #$msg = Get-Content -Path mytextfile.txt
 
 #read string
-#$msg = "abcdefghijklmnopqrstuvwxyz"
+$msg = "abcdefghijklmnopqrstuvwxyz"
 
 
 #Working file iteration
