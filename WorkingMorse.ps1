@@ -2,7 +2,7 @@
 $speak = New-Object System.Speech.Synthesis.SpeechSynthesizer
 
 #length of file
-$msg_length = $msg.Length #27
+$msg_length = $msg.Length #26
 
 
 #read file
